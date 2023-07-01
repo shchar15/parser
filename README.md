@@ -1,1 +1,1 @@
-# parser that collects all words from .txt file and prints them
+# In this section will be a bunch of parser scripts for different tasks.
